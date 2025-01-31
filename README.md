@@ -10,8 +10,6 @@ I'm passionate about learning more about computers and expanding my knowledge in
 ### 🌐 Portfolio
 Check out my portfolio here: https://rizw4n-dev.vercel.app
 
-### 💻 Projects
-One of the projects I'm proud of is a fully hosted website that includes backend functionalities using Node.js and Express. Feel free to explore it https://book-review-website-kdyx.onrender.com.
 
 ### 👀 Looking for Freelance Work
 I’m always open to collaborating on freelance projects! If you have an idea or need a developer to bring your project to life, feel free to reach out.
